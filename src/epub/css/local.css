@@ -3,10 +3,11 @@
 
 blockquote.sign{
     font-variant-caps: small-caps;
+    text-align: center;
 }
 
 blockquote.tomb{
-    font-variant-caps: all-small-caps;
+    text-align: center;
 }
 
 [epub|type~="z3998:signature"] p{
