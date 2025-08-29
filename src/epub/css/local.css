@@ -10,7 +10,7 @@ blockquote.tomb{
 	text-align: center;
 }
 
-[epub|type~="z3998:signature"] p{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
