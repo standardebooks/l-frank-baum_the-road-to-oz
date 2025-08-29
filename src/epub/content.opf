@@ -28,7 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Road to Oz</dc:title>
 		<meta property="file-as" refines="#title">Road to Oz, The</meta>
-		<dc:subject id="subject-1">Oz (Imaginary place) -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-1">Oz (Imaginary place) -- Children's fiction</dc:subject>
 		<dc:subject id="subject-2">Fantasy literature</dc:subject>
 		<dc:subject id="subject-3">Voyages and travels -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-4">Uncles -- Juvenile fiction</dc:subject>
@@ -40,7 +40,7 @@
 		<dc:subject id="subject-10">Gale, Dorothy (Fictitious character) -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-11">Princess Ozma (Fictitious character) -- Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sj2021051596</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85047145</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
@@ -52,7 +52,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2009128067</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
-		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="term" refines="#subject-7">sj2021050992</meta>
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008105340</meta>
 		<meta property="authority" refines="#subject-9">LCSH</meta>
@@ -61,10 +61,14 @@
 		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Children's</meta>
+		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young girl takes a passer-by down the road near her farm when they find themselves transported to another land.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Road to Oz&lt;/i&gt; is the fifth book in &lt;a href="https://standardebooks.org/l-frank-baum/"&gt;&lt;abbr&gt;L.&lt;/abbr&gt; Frank Baum's&lt;/a&gt; Oz series. It was published in July 1909.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Road to Oz&lt;/i&gt; tells the story of Dorothy Gale travelling with a shaggy traveler who appears outside her farm when they find themselves transported to a fantasy land. Upon this realization, Dorothy and the Shaggy Man travel down the road with the assumption it will lead them to Oz&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Road to Oz&lt;/i&gt; is a return to Oz at the request of Baum's readers and features guest appearances from characters of his other fantasy books. The story is more of a travelogue story than other Oz books.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/485</dc:source>
@@ -76,24 +80,23 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-frank-baum_the-road-to-oz</meta>
 		<dc:creator id="author">L. Frank Baum</dc:creator>
 		<meta property="file-as" refines="#author">Baum, L. Frank</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Lyman Frank Baum</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/L._Frank_Baum</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80110912</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Warren Baldwin</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Baldwin, Warren</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Dennis Amundson</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Amundson, Dennis</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Alexander Keane</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keane, Alexander</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexanderkeane.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
