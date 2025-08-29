@@ -2,12 +2,11 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 blockquote.sign{
-	font-variant-caps: small-caps;
-	text-align: center;
+	font-variant: small-caps;
 }
 
 blockquote.tomb{
-	text-align: center;
+    font-variant: small-caps;
 }
 
 [epub|type~="z3998:signature"]{
