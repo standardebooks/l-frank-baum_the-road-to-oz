@@ -63,7 +63,6 @@
 		<meta property="term" refines="#subject-11">Unknown</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young girl takes a passer-by down the road near her farm when they find themselves transported to another land.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Road to Oz&lt;/i&gt; is the fifth book in &lt;a href="https://standardebooks.org/l-frank-baum/"&gt;&lt;abbr&gt;L.&lt;/abbr&gt; Frank Baum’s&lt;/a&gt; Oz series. It was published in July 1909.&lt;/p&gt;
@@ -96,7 +95,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alexander Keane</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keane, Alexander</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://alexanderkeane.com</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexanderkeane.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
