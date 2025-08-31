@@ -1,12 +1,47 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-blockquote.sign{
+blockquote.tomb{
 	font-variant: small-caps;
 }
 
-blockquote.tomb{
-	font-variant: small-caps;
+/* Signs etc. in chs 6, 13, 19 */
+#chapter-6 blockquote,
+#chapter-13 blockquote,
+#chapter-19 blockquote{
+    font-variant: small-caps;
+    text-align: center;
+}
+
+#chapter-11 blockquote:first-of-type{
+    border: 1px solid;
+    break-inside: avoid;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 22em;
+    padding: 1em;
+    text-align: center;
+}
+
+#chapter-11 blockquote:first-of-type p{
+    text-indent: initial;
+}
+
+#chapter-11 blockquote:first-of-type p:first-child{
+    font-size: larger;
+    text-decoration: underline double;
+    text-transform: uppercase;
+}
+
+#chapter-11 blockquote:first-of-type p:nth-last-child(-n+2){
+    font-size: smaller;
+}
+
+#chapter-11 blockquote:first-of-type p:nth-of-type(2) span{
+    font-size: larger;
+    letter-spacing: .5em;
+    text-decoration: underline;
+    text-transform: uppercase;
 }
 
 [epub|type~="z3998:signature"]{
