@@ -63,10 +63,10 @@
 		<meta property="term" refines="#subject-11">Unknown</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<dc:description id="description">A young girl takes a passer-by down the road near her farm when they find themselves transported to another land.</dc:description>
+		<dc:description id="description">A young girl takes a passerby down the road near her farm when they find themselves transported to another land.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Road to Oz&lt;/i&gt; is the fifth book in &lt;a href="https://standardebooks.org/l-frank-baum"&gt;&lt;abbr&gt;L.&lt;/abbr&gt; Frank Baum’s&lt;/a&gt; Oz series. It was published in July 1909.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Road to Oz&lt;/i&gt; tells the story of Dorothy Gale travelling with a shaggy traveler who appears outside her farm when they find themselves transported to a fantasy land. Upon this realization, Dorothy and the Shaggy Man travel down the road with the assumption it will lead them to Oz&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Road to Oz&lt;/i&gt; tells the story of Dorothy Gale escorting a shaggy traveler who appears outside her farm and then they find themselves transported to a fantasy land. Upon this realization, Dorothy and the Shaggy Man travel down the road with the assumption it will lead them to Oz and a way for Dorothy to get home.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Road to Oz&lt;/i&gt; is a return to Oz at the request of Baum’s readers and features guest appearances from characters of his other fantasy books. The story is more of a travelogue story than other Oz books.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
