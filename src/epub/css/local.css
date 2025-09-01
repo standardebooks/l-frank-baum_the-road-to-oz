@@ -44,7 +44,7 @@ blockquote.tomb b{
 	text-transform: uppercase;
 }
 
-#chapter-11 blockquote:first-of-type p:nth-of-type(2) span{
+#chapter-11 blockquote:first-of-type p span{
 	font-size: larger;
 	letter-spacing: .5em;
 	text-decoration: underline;
