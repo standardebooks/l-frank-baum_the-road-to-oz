@@ -70,7 +70,7 @@
 		<dc:description id="description">A young girl takes a passerby down the road near her farm when they find themselves transported to another land.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Road to Oz&lt;/i&gt; tells the story of Dorothy Gale as she escorts a shaggy traveler who appears outside her farm. They soon find themselves transported to a fantasy land. Upon realizing this, Dorothy and the Shaggy Man travel down the road with the assumption that it will lead them to Oz, revealing a way for Dorothy to return home.&lt;/p&gt;
-			&lt;p&gt;The story, published in 1909, is a return to &lt;a href="https://standardebooks.org/collections/oz"&gt;Oz&lt;/a&gt; at the request of &lt;a href="https://standardebooks.org/l-frank-baum"&gt;Baum’s&lt;/a&gt; readers and features guest appearances from characters of his other fantasy books. The story is told in a style more like a travelogue compared to his other Oz books.&lt;/p&gt;
+			&lt;p&gt;The story, published in 1909, is a return to &lt;a href="https://standardebooks.org/collections/oz"&gt;Oz&lt;/a&gt; at the request of &lt;a href="https://standardebooks.org/ebooks/l-frank-baum"&gt;Baum’s&lt;/a&gt; readers and features guest appearances from characters of his other fantasy books. The story is told in a style more like a travelogue compared to his other Oz books.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/485</dc:source>
