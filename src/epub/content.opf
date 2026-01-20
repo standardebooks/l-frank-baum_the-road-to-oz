@@ -75,7 +75,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/485</dc:source>
 		<dc:source>https://archive.org/details/roadtooz0000lfra_i8y9</dc:source>
-		<meta property="se:word-count">40121</meta>
+		<meta property="se:word-count">39270</meta>
 		<meta property="se:reading-ease.flesch">78.48</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Road_to_Oz</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-frank-baum_the-road-to-oz</meta>
