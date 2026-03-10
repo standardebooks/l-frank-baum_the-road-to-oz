@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-4.xhtml">
 		<ignore code="t-008">
+			<line>27</line>
 			<reason>Single right quotes repeat here, first single right quote closes the quotes around 'ren' and the second single right quote provides the apostrophe for the contraction of is</reason>
 		</ignore>
 	</file>
