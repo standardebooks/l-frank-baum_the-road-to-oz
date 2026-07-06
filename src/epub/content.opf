@@ -79,7 +79,7 @@
 		<meta property="schema:wordCount">39270</meta>
 		<meta property="schema:educationalLevel">78.48</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Road_to_Oz" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/l-frank-baum_the-road-to-oz" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">L. Frank Baum</dc:creator>
