@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz</dc:identifier>
 		<dc:date>2025-09-01T19:39:21Z</dc:date>
@@ -68,11 +68,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Oz</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">A young girl takes a passerby down the road near her farm when they find themselves transported to another land.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young girl takes a passerby down the road near her farm when they find themselves transported to another land.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Road to Oz&lt;/i&gt; tells the story of Dorothy Gale as she escorts a shaggy traveler who appears outside her farm. They soon find themselves transported to a fantasy land. Upon realizing this, Dorothy and the Shaggy Man travel down the road with the assumption that it will lead them to Oz, revealing a way for Dorothy to return home.&lt;/p&gt;
 			&lt;p&gt;The story, published in 1909, is a return to &lt;a href="https://standardebooks.org/collections/oz"&gt;Oz&lt;/a&gt; at the request of &lt;a href="https://standardebooks.org/ebooks/l-frank-baum"&gt;Baum’s&lt;/a&gt; readers and features guest appearances from characters of his other fantasy books. The story is told in a style more like a travelogue compared to his other Oz books.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/485</dc:source>
 		<dc:source>https://archive.org/details/roadtooz0000lfra_i8y9</dc:source>
