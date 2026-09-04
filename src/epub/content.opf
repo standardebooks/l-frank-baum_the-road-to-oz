@@ -30,17 +30,17 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Road to Oz</dc:title>
 		<meta property="file-as" refines="#title">Road to Oz, The</meta>
-		<dc:subject id="subject-1">Oz (Imaginary place) -- Children's fiction</dc:subject>
+		<dc:subject id="subject-1">Oz (Imaginary place)--Children's fiction</dc:subject>
 		<dc:subject id="subject-2">Fantasy literature</dc:subject>
-		<dc:subject id="subject-3">Voyages and travels -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-4">Uncles -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-5">Magic -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-6">Kings and rulers -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-7">Farms -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-8">Good and evil -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-9">Animals, Mythical -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-10">Gale, Dorothy (Fictitious character) -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-11">Princess Ozma (Fictitious character) -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-3">Voyages and travels--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">Uncles--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-5">Magic--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-6">Kings and rulers--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-7">Farms--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-8">Good and evil--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-9">Animals, Mythical--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-10">Gale, Dorothy (Fictitious character)--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-11">Princess Ozma (Fictitious character)--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sj2021051596</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
